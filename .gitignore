@@ -1,0 +1,12 @@
+# Ignore virtual environments
+myenv/
+
+# Ignore env/secret files
+api_key.env
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
